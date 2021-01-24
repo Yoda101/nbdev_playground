@@ -1,7 +1,8 @@
 {
   "hellonbdev": {
     "Overview": "/",
-    "hello nbdev": "core.html",
-    "Project name here": "index-checkpoint.html"
+    "hello nbdev": "core-checkpoint.html",
+    "Project name here": "index-checkpoint.html",
+    "hello nbdev !": "core.html"
   }
 }

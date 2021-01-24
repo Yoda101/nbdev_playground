@@ -11,10 +11,13 @@ entries:
       url: /
     - output: web,pdf
       title: hello nbdev
-      url: core.html
+      url: core-checkpoint.html
     - output: web,pdf
       title: Project name here
       url: index-checkpoint.html
+    - output: web,pdf
+      title: hello nbdev !
+      url: core.html
     output: web
     title: hellonbdev
   output: web
