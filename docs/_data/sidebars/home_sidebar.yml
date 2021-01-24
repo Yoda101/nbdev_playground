@@ -9,9 +9,6 @@ entries:
     - output: web,pdf
       title: Overview
       url: /
-    - output: web,pdf
-      title: hellonbdev
-      url: /core
     output: web
     title: hellonbdev
   output: web
